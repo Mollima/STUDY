@@ -1,0 +1,6 @@
+color = input ("Enter name of color : ")
+second_color = input("Enter name of second_color : ")
+my_daughter = input("Enter name of daughter : ")
+print("Roses are " + color)
+print("Sky are "  + second_color)
+print("I love " + my_daughter) + print("And thats true!")
